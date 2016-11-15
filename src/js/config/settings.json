@@ -1,0 +1,9 @@
+{
+  "origin": "http://example.com",
+  "dataTable": {
+    "defaultWidth": 600,
+    "defaultHeight": 600,
+    "defaultRowHeight": 50,
+    "defaultHeaderHeight": 50
+  }
+}
